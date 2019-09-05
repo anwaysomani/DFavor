@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "675854071666",
+    "firebase_url": "https://anwaysomani-dfavor.firebaseio.com",
+    "project_id": "anwaysomani-dfavor",
+    "storage_bucket": "anwaysomani-dfavor.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:675854071666:android:607ca93ee072dbcd680feb",
+        "android_client_info": {
+          "package_name": "com.anway.dfavor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "675854071666-3qid9fg22ihpgvrl852g1j08s06s4a3m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.anway.dfavor",
+            "certificate_hash": "f48bcb13cf4621e3bcd61b99db36c1bbb51d882d"
+          }
+        },
+        {
+          "client_id": "675854071666-qq8nhl64r6sjq7hhg8la0fr4hkkgv84r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDs8ErB2XCmsfVZCryEVpxGxq7qDeLAGa0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "675854071666-qq8nhl64r6sjq7hhg8la0fr4hkkgv84r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
